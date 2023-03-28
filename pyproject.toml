@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "toolbox_sdj"
-version = "2023.03.01"
+version = "2023.03.01a"
 description = "Collection of python tools and helpers."
 
 readme = "README.md"
